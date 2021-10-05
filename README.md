@@ -1,8 +1,8 @@
 ### E aí! Eu sou Wendres Lucas!
 
-- 🔭 Hoje trabalho como analista de suporte
-- 🌱 Estudando HTML5, CSS3, Javascript
-
+ - Hoje trabalho como analista de suporte 
+ - Estudante de desenvolvimento web na Alura
+ 
 <div align="center">
     <a href="https://github.com/wendreslucas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendreslucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
