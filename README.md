@@ -1,6 +1,6 @@
 ### E aí! Eu sou Wendres Lucas!
 
- - Hoje trabalho como analista de suporte 
+ - Estou trabalhando com TI desde 2015. Apaixonado por tecnologia, buscando sempre aprender.
  - Estudante de desenvolvimento web na Alura
  
 <div align="center">
