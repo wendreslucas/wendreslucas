@@ -1,7 +1,7 @@
 ### E aí! Eu sou Wendres Lucas!
 
  - Trabalho com TI desde 2015. Apaixonado por tecnologia, buscando sempre aprender.
- - Estudante de desenvolvimento web! 
+ - Fullstack developer
  
 <div align="center">
     <a href="https://github.com/wendreslucas">
